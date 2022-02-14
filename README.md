@@ -25,7 +25,9 @@ In order to run this program, the user must type "node index.js" in their consol
 
 ## Example
 
-### Screenshot of the Program
+### Screenshot of the Program Running
+
+![Screenshot of Git Bash running the teambuilder, showing prompts and answers, also tests](./images/teambuilder.png)
 
 ### Video Demonstration
 
